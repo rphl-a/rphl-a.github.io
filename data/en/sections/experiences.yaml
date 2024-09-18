@@ -2,7 +2,7 @@ section:
   name: Experience # Titre de la section (par défaut: "" )
   id: experiences # url id/slug of section *Required*
   enable: true
-  weight: 6
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
