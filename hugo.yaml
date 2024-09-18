@@ -1,7 +1,7 @@
 baseURL: https://rphl-a.github.io
 
 languageCode: en-us
-title: "Raphael's Blog"
+title: "Raphael's Website"
 
 # Use Hugo modules to add theme
 
@@ -24,9 +24,6 @@ languages:
   en:
     languageName: English
     weight: 1
-  fr:
-    languageName: Français
-    weight: 2
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -51,7 +48,10 @@ outputs:
 
 # Enable global emoji support
 enableEmoji: true
-
+logo:
+    main: images/favicon.png
+    inverted: images/favicon.png
+    favicon: images/favicon.png
 # Site parameters
 params:
   # GitHub repo URL of your site
@@ -73,3 +73,4 @@ params:
   # Configure footer
   footer:
     enable: true
+    

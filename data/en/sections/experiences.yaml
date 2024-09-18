@@ -1,0 +1,61 @@
+section:
+  name: Experience # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+  
+# Your experiences
+experiences:
+- company:
+    name: London Stock Exchange Group
+    url: "https://www.lseg.com/en"
+    location: Taguig, Philippines
+    logo: /images/experiences/lseg-logo.png
+    overview: The London Stock Exchange Group is a global provider of financial markets data and infrastructure.
+  positions:
+  - designation: FXAll Intern & Student Affiliate
+    start: Jan 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Apr 2024
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Responsibilities go here.
+
+- company:
+    name: DLSU-D University Student Government
+    url: "https://www.facebook.com/usg.dlsud"
+    location: De La Salle University-Dasmariñas
+    logo: /images/experiences/dlsudusg-logo.jpg
+    overview: The University Student Government is the highest student governing body in De La Salle University-Dasmariñas.
+  positions:
+  - designation: CBAA-Senator
+    start: Aug 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Apr 2024
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Responsibilities go here.
+  - designation: Deputy Secretary for Treasury
+    start: Jan 2022
+    end: Jul 2022
+    responsibilities:
+    - Responsibilities go here.
+    
+ 
+- company:
+    name: Riviera Golf Club, Inc.
+    url: "https://www.rivieragolfclub.ph/"
+    location: Silang, Cavite
+    logo: /images/experiences/riviera-logo.png
+    overview: The Riviera Golf Club, Inc., is a golf course located in Silang, Cavite.
+  positions:
+  - designation: FXAll Intern & Student Affiliate
+    start: Nov 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Nov 2019
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Responsibilities go here.

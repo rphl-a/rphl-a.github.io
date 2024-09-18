@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  
+degrees:
+- name: Bachelor of Science in Accountancy (Tertiary)
+  icon: "fa-solid fa-user-graduate"
+  timeframe: 2020-2024
+  institution:
+    name: De La Salle University-Dasmariñas
+    url: "https://www.dlsud.edu.ph/"
+    logo: /images/education/dlsud-logo.png # Path of the logo image
+  grade: #(optional)
+    scale: CGPA
+    achieved: --
+    outOf: 4 (Pending release of TOR)
+  publications: #(optional)
+  - title: "The Effects of Accountancy Graduates' Participation in Student Organization Activities and Work Performance in their First Job: The Mediating Role of Acquired Soft Skills"
+  extracurricularActivities: #(optional), supports markdown
+  - Participated in the University Student Government as a Deputy Secretary for Treasury (A.Y. 2021-2022) and CBAA-Senator (A.Y. 2022-2024).
+  - Hosted activities and created meaningful pieces of legislation for the benefit of the general student body.
+  - Joined various student activities and webinar during undergraduate studies.
+- name: Accountancy, Business and Management (ABM) Strand (Secondary)
+  icon: "fa-solid fa-book"
+  timeframe: 2014-2020
+  institution:
+    name: Infant Jesus Academy of Silang, Inc.
+    url: "https://ija.dices.edu.ph/"
+    logo: "/images/education/ija-logo.jpg"
+  extracurricularActivities:
+  - Participated in various student-led and religious organizations during secondary education. 

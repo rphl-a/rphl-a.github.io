@@ -1,0 +1,82 @@
+# section information
+section:
+  name: Projects & Initiatives
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  
+buttons:
+- name: All
+  filter: "all"
+- name: DLSU-D USG
+  filter: "dlsudusg"
+
+projects:
+- name: Senate Filing System (Fourth Congress)
+  role: Creator
+  url: ""
+  summary: Description of project.
+  tags: ["dlsudusg"]
+
+- name: Rules of the Senate (Fifth Congress)
+  role: Joint Author
+  url: ""
+  summary: Description of project.
+  tags: ["dlsudusg"]
+
+- name: General Appropriations Act for the First Semester of A.Y. 2022-2023
+  role: Joint Author
+  url: ""
+  summary: Description of project.
+  tags: ["dlsudusg"]
+
+- name: Digital Sharing and Communication Policies for Student Governments Act
+  role: Joint Author
+  url: ""
+  summary: Description of project.
+  tags: ["dlsudusg"]
+
+- name: USG Official Gazette and the Freedom of Information Act
+  role: Joint Author
+  url: ""
+  summary: Description of project.
+  tags: ["dlsudusg"]
+
+- name: The People's Initiative Act
+  role: Joint Author
+  url: ""
+  summary: Description of project.
+  tags: ["dlsudusg"]
+
+- name: General Appropriations Act for the First Semester of A.Y. 2023-2024
+  role: Joint Author
+  url: ""
+  summary: Description of project.
+  tags: ["dlsudusg"]
+  
+- name: Disaster and Emergency Preparedness Act of 2024
+  role: Author
+  url: ""
+  summary: Description of project.
+  tags: ["dlsudusg"]
+  
+- name: Ease of Transition Law
+  role: Co-author
+  url: ""
+  summary: Description of project.
+  tags: ["dlsudusg"]
+
+- name: Qualification Compliance Act of 2024
+  role: Author
+  url: ""
+  summary: Description of project.
+  tags: ["dlsudusg"]
+  
+- name: Expanded Anti-Sexual Harassment Act of DLSU-D 2024
+  role: Co-author
+  url: ""
+  summary: Description of project.
+  tags: ["dlsudusg"]
