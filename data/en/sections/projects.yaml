@@ -13,70 +13,73 @@ buttons:
   filter: "all"
 - name: DLSU-D USG
   filter: "dlsudusg"
+- name: Legislative Measure
+  filter: "legis"
+- name: Automation
+  filter: "automation"
 
 projects:
 - name: Senate Filing System (Fourth Congress)
   role: Creator
-  url: ""
-  summary: Description of project.
-  tags: ["dlsudusg"]
+  summary: An automated system to file legislative measures created by Senators to their respective OneDrive folders. Utilized Microsoft Power Automate, Microsoft Teams' Approval, and Microsoft Forms to create the approvals system.
+  tags: [dlsudusg, automation]
 
 - name: Rules of the Senate (Fifth Congress)
   role: Joint Author
-  url: ""
-  summary: Description of project.
-  tags: ["dlsudusg"]
+  url: https://www.facebook.com/senate.usg.dlsud/posts/pfbid0kWwsS5qKXyRAndWnvtBXePNRz66zhAyt8zi1ivwQy4ACuyeecXtKrwdeaLn7Skzrl
+  summary: Consolidated the Rules of the Senate for use in its formal sessions and operations. Also introduced the concept of Senatorial Aides.
+  tags: [dlsudusg, legis]
 
 - name: General Appropriations Act for the First Semester of A.Y. 2022-2023
   role: Joint Author
-  url: ""
-  summary: Description of project.
-  tags: ["dlsudusg"]
+  url: "https://www.facebook.com/usg.dlsud/posts/pfbid0LcXNjDURtBx9QAV3N4S6ufFgs54FEd7DXhmnvuDgeuv8oSbzTVJGBThpjLNJDvt1l"
+  summary: Enacted as the Twenty-Fifth Act of Congress, this law provided for the appropriations of the University Student Government for its first semestral operations for A.Y. 2022-2023.
+  tags: [dlsudusg, legis]
 
 - name: Digital Sharing and Communication Policies for Student Governments Act
   role: Joint Author
-  url: ""
-  summary: Description of project.
-  tags: ["dlsudusg"]
+  url: "https://www.facebook.com/usg.dlsud/posts/pfbid0K9ENkw2Spqw26qoqWxdRoEQyJ1ETG1Sd9EtzeHryvyXzRs6PesK6V6jKyjCKacPwl"
+  summary: Enacted as the Thirtieth Act of Congress, this law provided for control measures to enhance the data privacy policy of the University Student Government and student organizations that adopted such law.
+  tags: [dlsudusg, legis]
 
 - name: USG Official Gazette and the Freedom of Information Act
   role: Joint Author
-  url: ""
-  summary: Description of project.
-  tags: ["dlsudusg"]
+  url: "https://www.facebook.com/usg.dlsud/posts/pfbid0Ka2DDhiBizorZsvn1TeCfK53K6SPdmoiJtsU66fGxkddHFHaTfAyc3qbPY92azFPl"
+  summary: Enacted as the Thirty-Fifth Act of Congress, this law provided for enhanced transparency of the University Student Government through the creation of a USG Official Gazette and a Freedom of Information Manual.
+  tags: [dlsudusg, legis]
 
 - name: The People's Initiative Act
   role: Joint Author
-  url: ""
-  summary: Description of project.
-  tags: ["dlsudusg"]
+  url: "https://www.facebook.com/usg.dlsud/posts/pfbid0R6SiNL6wZY4QqJmbVZT6iaEdBxEqH8iCmsvxfYoFAe8v5tqcVEEXvNA4pDdSMv3Gl"
+  summary: Enacted as the Thirty-Sixth Act of Congress, this law provided for a system of initiative and referendum for use of the students in the University, with irrevocable option for adopting College Student Governments and Program Councils for their constituents as well.
+  tags: [dlsudusg, legis]
 
 - name: General Appropriations Act for the First Semester of A.Y. 2023-2024
   role: Joint Author
-  url: ""
-  summary: Description of project.
-  tags: ["dlsudusg"]
-  
+  url: "https://www.facebook.com/usg.dlsud/posts/pfbid02MYUNvsmqE1WCas1jWNfEPwYHoGyAyEvHZg9Lc7gAyz2yxYzb14eKM2s54Nix9dZUl"
+  summary: Enacted as the Twenty-Fifth Act of Congress, this law provided for the appropriations of the University Student Government for its first semestral operations for A.Y. 2023-2024.
+  tags: [dlsudusg, legis]
+
 - name: Disaster and Emergency Preparedness Act of 2024
   role: Author
   url: ""
   summary: Description of project.
-  tags: ["dlsudusg"]
+  tags: [dlsudusg, legis]
   
 - name: Ease of Transition Law
   role: Co-author
   url: ""
   summary: Description of project.
-  tags: ["dlsudusg"]
+  tags: [dlsudusg, legis]
 
 - name: Qualification Compliance Act of 2024
   role: Author
   url: ""
   summary: Description of project.
-  tags: ["dlsudusg"]
+  tags: [dlsudusg, legis]
   
 - name: Expanded Anti-Sexual Harassment Act of DLSU-D 2024
   role: Co-author
   url: ""
   summary: Description of project.
-  tags: ["dlsudusg"]
+  tags: [dlsudusg, legis]
