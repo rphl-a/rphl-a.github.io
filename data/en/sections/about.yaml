@@ -21,8 +21,8 @@ resourceLinks:
   url: "files/ACILO-Resume-Sept2024.pdf"
 - title: "View Curriculum Vitae"
   url: "files/ACILO-CV-Sept2024.pdf"
-- title: "Visit Digital Garden"
-  url: https://rphl-a.github.io/linkednotes/
+# - title: "Visit Digital Garden"
+#   url: https://rphl-a.github.io/linkednotes/
 
 
 # a summary about you
