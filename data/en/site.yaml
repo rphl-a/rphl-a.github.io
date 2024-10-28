@@ -7,6 +7,6 @@ description: Raphael Acilo's website.
 navBarTitle: "Raphael's Website"
 
 customMenus:
-- name: Digital Garden
-  url: https://rphl-a.github.io/linkednotes
+- name: Personal Site
+  url: https://rphla.wordpress.com
   showonFooter: true
