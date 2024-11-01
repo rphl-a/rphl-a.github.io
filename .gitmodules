@@ -1,0 +1,3 @@
+[submodule "obsidian-linkednotes"]
+	path = obsidian-linkednotes
+	url = https://github.com/rphl-a/obsidian-linkednotes
