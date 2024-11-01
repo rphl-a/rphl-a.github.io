@@ -1,5 +1,6 @@
 @echo off
 
+call git pull
 call git add .
 call git commit -m "Push"
 call git push origin HEAD
